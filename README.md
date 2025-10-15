@@ -7,6 +7,41 @@ A Streamlit-based conversational chatbot showcasing:
 - **LangChain** for natural language conversations
 - **LlamaIndex** for document-based retrieval QA
 
+🧠 AI Chat Assistant (LangChain + LlamaIndex + Streamlit)
+
+This project is an intelligent conversational assistant built using LangChain, LlamaIndex, and OpenAI GPT models.
+It allows you to switch between LangChain and LlamaIndex backends dynamically from a modern Streamlit UI, making it flexible for experimenting with different reasoning engines.
+
+🚀 Features
+
+💬 Chat interface powered by Streamlit
+
+🧩 Dual engine support — switch between:
+
+LangChain (gpt-3.5 / gpt-4)
+
+LlamaIndex (document-based querying)
+
+🔐 Secure API key handling via .env file
+
+⚙️ Configurable model, creativity (temperature), and session reset
+
+📁 Modular design — app_langchain.py, app_llamaindex.py, streamlit_app.py
+
+🌈 Clean and responsive UI
+
+🏗️ Project Structure
+📦 ChatbotProject
+│
+├── app_langchain.py          # LangChain engine logic
+├── app_llamaindex.py         # LlamaIndex engine logic
+├── streamlit_app.py          # Streamlit frontend controller
+├── .env                      # Contains your OpenAI API key
+├── requirements.txt          # All dependencies
+├── data/                     # Folder for document ingestion (LlamaIndex)
+└── README.md                 # Project documentation
+
+
 ## 🚀 Setup Instructions
 
 1️⃣ Create a Virtual Environment
