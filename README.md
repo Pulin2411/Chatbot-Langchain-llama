@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f7dcf153-9f47-40a3-b55f-d1ba51886843" />
+
+
 # 🤖 Conversational Chatbot (LangChain + LlamaIndex)
 
 A Streamlit-based conversational chatbot showcasing:
