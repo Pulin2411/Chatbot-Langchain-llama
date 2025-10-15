@@ -1,0 +1,17 @@
+# --- Streamlit & environment ---
+streamlit==1.39.0
+python-dotenv==1.0.1
+
+# --- LangChain Ecosystem ---
+langchain==0.3.7
+langchain-openai==0.2.6
+
+# --- LlamaIndex Ecosystem (Compatible, Stable Versions) ---
+llama-index==0.10.43
+llama-index-core==0.10.43
+llama-index-llms-openai==0.1.17
+
+# --- Utilities ---
+tiktoken==0.7.0
+numpy==1.26.4
+packaging==24.1
