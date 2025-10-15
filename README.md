@@ -79,4 +79,3 @@ OPENAI_API_KEY=sk-your_api_key_here
 python -m streamlit run streamlit_app.py
 ```
 
-Open your browser: http://localhost:8501
