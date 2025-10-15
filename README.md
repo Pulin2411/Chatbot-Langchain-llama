@@ -36,6 +36,7 @@ LlamaIndex (document-based querying)
 🌈 Clean and responsive UI
 
 🏗️ Project Structure
+
 📦 ChatbotProject
 │
 ├── app_langchain.py          # LangChain engine logic
