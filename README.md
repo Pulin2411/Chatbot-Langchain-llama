@@ -39,12 +39,19 @@ LlamaIndex (document-based querying)
 
 📦 ChatbotProject
 │
+
 ├── app_langchain.py          # LangChain engine logic
+
 ├── app_llamaindex.py         # LlamaIndex engine logic
+
 ├── streamlit_app.py          # Streamlit frontend controller
+
 ├── .env                      # Contains your OpenAI API key
+
 ├── requirements.txt          # All dependencies
+
 ├── data/                     # Folder for document ingestion (LlamaIndex)
+
 └── README.md                 # Project documentation
 
 
